@@ -48,7 +48,7 @@ const products = [
     name: "Saia Midi",
     originalPrice: 179.90,
     salePrice: 139.90,
-    image: "https://images.unsplash.com/photo-1583496661160-fb5886a0uj1a?w=400&h=500&fit=crop",
+    image: "https://images.unsplash.com/photo-1747919778453-9692c18197fa?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tag: null
   }
 ];

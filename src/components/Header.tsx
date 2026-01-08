@@ -16,7 +16,7 @@ const Header = () => {
       <div className="container-narrow flex items-center justify-between h-16 px-4">
         {/* Logo */}
         <a href="#" className="font-serif text-2xl font-semibold tracking-wide">
-          NOME DA LOJA
+          Rosa & Pérola
         </a>
 
         {/* Desktop Navigation */}

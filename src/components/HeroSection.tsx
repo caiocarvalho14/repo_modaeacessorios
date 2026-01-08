@@ -18,7 +18,7 @@ const HeroSection = () => {
         </span>
         
         <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl font-semibold mb-6 tracking-tight animate-fade-in" style={{ animationDelay: '0.1s' }}>
-          NOME DA LOJA
+          Rosa & Pérola
         </h1>
         
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-in" style={{ animationDelay: '0.2s' }}>

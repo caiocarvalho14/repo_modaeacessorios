@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Logo */}
           <div className="text-center md:text-left">
             <span className="font-serif text-2xl font-semibold tracking-wide">
-              NOME DA LOJA
+              Rosa & Pérola
             </span>
             <p className="text-primary-foreground/70 text-sm mt-2">
               Moda & Acessórios
@@ -57,8 +57,9 @@ const Footer = () => {
         {/* Divider */}
         <div className="border-t border-primary-foreground/10 mt-8 pt-8">
           <p className="text-center text-sm text-primary-foreground/50">
-            © {currentYear} Nome da Loja. Todos os direitos reservados.
+            © {currentYear} Rosa & Pérola. Todos os direitos reservados.
           </p>
+          <p className="text-center text-sm ">Desenvolvido por: <a href="https://solutions.caiocarvalho.dev.br">Caio Carvalho</a></p>
         </div>
       </div>
     </footer>

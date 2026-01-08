@@ -25,7 +25,7 @@ const ContactSection = () => {
           {/* Map */}
           <div className="rounded-lg overflow-hidden elegant-shadow h-[300px] md:h-[400px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0976795194453!2d-46.65646892359591!3d-23.56389116121821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c8da0aa315%3A0x73ef47fa8de4e5fa!2sAv.%20Paulista%2C%20S%C3%A3o%20Paulo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1704067200000!5m2!1spt-BR!2sbr"
+              src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1992.3524127179337!2d-41.78038751290437!3d-2.9011245814851914!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1767891620962!5m2!1spt-BR!2sbr"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -46,8 +46,8 @@ const ContactSection = () => {
               <div>
                 <h3 className="font-serif text-lg font-semibold mb-1">Endereço</h3>
                 <p className="text-muted-foreground">
-                  Av. Exemplo, 1234 - Centro<br />
-                  Cidade - Estado, CEP 00000-000
+                  Av. São Sebastião, 1234 - Centro<br />
+                  Parnaíba - PI, CEP 64200-000
                 </p>
               </div>
             </div>
@@ -75,7 +75,7 @@ const ContactSection = () => {
               <div>
                 <h3 className="font-serif text-lg font-semibold mb-1">Telefone / WhatsApp</h3>
                 <p className="text-muted-foreground">
-                  (11) 99999-9999
+                  (86) 99999-9999
                 </p>
               </div>
             </div>
